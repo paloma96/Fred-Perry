@@ -1,6 +1,6 @@
 ## Descripción 🏝
-Pequeño proyecto realizado durante mi formación en el Master de HTML5, CSS3 y jQuery en Trazos.
-La práctica consiste en imitar la página web de Fred Perry (https://www.fredperry.com/eu-es/) utilizando las tecnologías antes mencionadas.
+Última práctica realizada durante mi formación en el Master de HTML5, CSS3 y jQuery en Trazos.
+El proyecto consiste en imitar la página web de Fred Perry (https://www.fredperry.com/eu-es/) utilizando las tecnologías antes mencionadas.
 Se emplea además metodología BEM y se hace uso de Sass con Prepros.
 
 
@@ -17,7 +17,6 @@ Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz dob
   
 ## Contratación
 Si quieres contratarme puedes escribirme a usoa.96@gmail.com para consultas
-
 
 ## Licencia 📄
 MIT Public License v3.0
