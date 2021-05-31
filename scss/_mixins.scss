@@ -1,0 +1,48 @@
+// Mixins
+@mixin flex( $direccion , $cortar , $just , $align){
+    display         : flex;
+    flex-flow       : $direccion $cortar;
+    justify-content : $just;
+    align-items     : $align;
+  }
+
+@mixin trans(){
+  transition: all .4s ease;
+}
+
+@mixin m1730() {
+  @media (max-width: 1730px) { @content; }
+}
+
+@mixin m1511() {
+  @media (max-width: 1511px) { @content; }
+}
+
+@mixin m1199() {
+  @media (max-width: 1199px) { @content; }
+}
+
+@mixin m1130() {
+  @media (max-width: 1130px) { @content; }
+}
+
+@mixin m1024() {
+  @media (max-width: 1024px) { @content; }
+}
+
+@mixin m900() {
+  @media (max-width: 900px) { @content; }
+}
+
+@mixin m768() {
+  @media (max-width: 768px) { @content; }
+}
+
+@mixin m500() {
+  @media (max-width: 500px) { @content; }
+}
+
+
+
+
+
